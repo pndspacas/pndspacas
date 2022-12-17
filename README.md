@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Paças</h1>
-<h3 align="center">Software Developer</h3>
-<p align="center"> Turned Software Developer with a need to know what is on demand, to get the most of each technology, to create something useful to apply my skills.</p>
+<h3 align="center">Frontend Developer</h3>
+<p align="center"> Frontend Developer with a need to know what is on demand, to get the most of each technology, to create something useful to apply my skills.</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
